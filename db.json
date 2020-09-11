@@ -7,6 +7,7 @@
       "cadId": 1,
       "catTitle": "Картон",
       "price": 150,
+      "img": "http://sladkiy-podarochek.ru/components/com_jshopping/files/img_products/thumb_000002720.jpg",
       "description": "Описание подарка"
     },
     {
@@ -16,6 +17,7 @@
       "cadId": 1,
       "catTitle": "Картон",
       "price": 250,
+      "img": "http://sladkiy-podarochek.ru/components/com_jshopping/files/img_products/thumb_000002721.jpg",
       "description": "Описание подарка"
     },
     {
@@ -25,6 +27,7 @@
       "cadId": 1,
       "catTitle": "Картон",
       "price": 200,
+      "img": "http://sladkiy-podarochek.ru/components/com_jshopping/files/img_products/thumb_000002725.jpg",
       "description": "Описание подарка"
     }
   ]
