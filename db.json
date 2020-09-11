@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Дед Мороз",
+      "number": "15К",
+      "cadId": 1,
+      "catTitle": "Картон",
+      "price": 150,
+      "description": "Описание подарка"
+    },
+    {
+      "id": 2,
+      "title": "Снегурочка",
+      "number": "16К",
+      "cadId": 1,
+      "catTitle": "Картон",
+      "price": 250,
+      "description": "Описание подарка"
+    },
+    {
+      "id": 3,
+      "title": "На катке",
+      "number": "17К",
+      "cadId": 1,
+      "catTitle": "Картон",
+      "price": 200,
+      "description": "Описание подарка"
+    }
+  ]
+}
